@@ -11,3 +11,4 @@ A working list of projects I've completed as part of [The Odin Project](https://
 ### Full Stack JavaScript
 - [Sign Up Form](https://github.com/dachendev/odin-signup-form) - A color-pop sign up form, and something about oranges?
 - [Library](https://github.com/dachendev/odin-library) - A personal library to track what books I've read.
+- [Tic Tac Toe](https://github.com/dachendev/odin-tic-tac-toe) - A spooky Tic Tac Toe game that applies the Factory pattern.
